@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PedroRBC/AuthApp-API" />
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/PedroRBC/AuthApp-API" />
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/PedroRBC/AuthApp-API" />
   <a href="https://github.com/PedroRBC/AuthApp-API/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PedroRBC/AuthApp-API" />
   </a>
