@@ -7,7 +7,18 @@
     "dev": "tsx watch src/server.ts",
     "build": "tsup src"
   },
-  "keywords": [],
+  "keywords": [
+    "MySql",
+    "typescript",
+    "tsx",
+    "node",
+    "prisma",
+    "passport",
+    "cors",
+    "ts",
+    "bcrypt",
+    "dotenv"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
